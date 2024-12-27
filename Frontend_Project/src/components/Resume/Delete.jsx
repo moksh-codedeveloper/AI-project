@@ -6,4 +6,4 @@ function Delete() {
     )
 }
 
-export default Delete
+export { Delete}

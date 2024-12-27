@@ -6,4 +6,4 @@ function CreateResume() {
     )
 }
 
-export default CreateResume
+export {CreateResume}
